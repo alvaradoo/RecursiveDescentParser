@@ -1,2 +1,0 @@
-"this string contains 123"
-"this is a bad string 
