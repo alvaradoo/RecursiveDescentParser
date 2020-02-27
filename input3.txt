@@ -1,0 +1,28 @@
+AND
+BEGIN
+END
+FOR
+IF
+NOT
+OR
+READ
+WHILE
+WRITE
+/* read a value */
+Sum2
+25.49
+"John Doe"
++
+*
+:=
+=
+>
+<
+(
+,
+)
+;
+$
+/
+150
+ 

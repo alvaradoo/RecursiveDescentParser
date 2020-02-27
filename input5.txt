@@ -1,0 +1,3 @@
+/* this is a comment with a * and a / */ 
+/* this is a bad comment 
+3 / 3 
