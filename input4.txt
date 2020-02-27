@@ -1,1 +1,0 @@
-IF WRITE count2 sum fnum25pat WHILE READ t39sh67
