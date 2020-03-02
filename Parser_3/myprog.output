@@ -1,0 +1,19 @@
+TOKENS/TYPES        WORDS/LEXEMES
+
+------------        -------------
+
+identifier          num1
+assignment          :=
+real constant       12.5
+semicolon           ;
+string              "It is nice outside"
+comment             /* compute area */
+identifier          sum
+plus                +
+invalid             {
+multiplication      *
+right parenthesis   )
+identifier          sum
+assignment          :=
+identifier          num1
+invalid             ?
